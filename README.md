@@ -114,3 +114,4 @@ See [Contributing Guide](https://github.com/vitest-dev/vitest/blob/main/CONTRIBU
 ## License
 
 [MIT](./LICENSE) License © 2021-Present [Anthony Fu](https://github.com/antfu), [Matias Capeletto](https://github.com/patak-dev)
+ 
